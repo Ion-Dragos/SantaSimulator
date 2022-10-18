@@ -23,7 +23,7 @@
     si in functie de varsta pe care o are calculam averageScore-ul cu metoda
     corespunzatoare.
 
-### Builder -> Pachet database -> Clasa child
+### BUILDER -> Pachet database -> Clasa child
     Am folosit acest design pattern pentru a instantia un copil doar cu
     detaliile pe care le primeste din input, iar pe urma sa adaugam ce
     mai este nevoie de-a lungul programului si pentru output. Ne ajuta acest
