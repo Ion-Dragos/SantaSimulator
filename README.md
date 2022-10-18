@@ -3,11 +3,11 @@
 
 ## DESIGN PATTERNS
 
-### SINGLETON -> Pachet simulation -> Clasa Simulation:
+### SINGLETON -> Pachet simulation -> Clasa Simulation
     Am folosit aici singleton pentru a crea o singura instanta a simularii 
     noastre de fiecare data cand se face un test nou.
 
-### STRATEGY -> Pachet strategy -> Interfata Strategy:
+### STRATEGY -> Pachet strategy -> Interfata Strategy
     Am utilizat strategy pentru a calcula averageScore-ul pentru fiecare tip
     de copil in parte.
 
@@ -18,12 +18,12 @@
         din niceScoreHistory
 
 
-### FACTORY -> Pachet factory -> Clasa ChildFactory:
+### FACTORY -> Pachet factory -> Clasa ChildFactory
     In ChildFactory avem metoda createStrategy in care dam ca parametru un child
     si in functie de varsta pe care o are calculam averageScore-ul cu metoda
     corespunzatoare.
 
-### Builder -> pachet database -> Clasa child
+### Builder -> Pachet database -> Clasa child
     Am folosit acest design pattern pentru a instantia un copil doar cu
     detaliile pe care le primeste din input, iar pe urma sa adaugam ce
     mai este nevoie de-a lungul programului si pentru output. Ne ajuta acest
