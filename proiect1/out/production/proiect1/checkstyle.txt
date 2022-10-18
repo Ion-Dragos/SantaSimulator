@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] D:\Facultate\Anul II - Semestrul I\POO - Programare Orientata pe Obiecte\oop-asignments\proiect1\.\src\factory\CalculateAverageScoreStrategyFactory.java:10:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+[ERROR] D:\Facultate\Anul II - Semestrul I\POO - Programare Orientata pe Obiecte\oop-asignments\proiect1\.\src\simulation\SimulationUpdates.java:17:1: Utility classes should not have a public or default constructor. [HideUtilityClassConstructor]
+Audit done.
+Checkstyle ends with 2 errors.

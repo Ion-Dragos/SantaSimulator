@@ -1,0 +1,5 @@
+Starting audit...
+[ERROR] D:\Facultate\Anul II - Semestrul I\POO - Programare Orientata pe Obiecte\oop-asignments\proiect2\.\out\production\proiect1\src\simulation\Simulation.java:9:8: Unused import - enums.ElvesType. [UnusedImports]
+[ERROR] D:\Facultate\Anul II - Semestrul I\POO - Programare Orientata pe Obiecte\oop-asignments\proiect2\.\src\simulation\Simulation.java:9:8: Unused import - enums.ElvesType. [UnusedImports]
+Audit done.
+Checkstyle ends with 2 errors.

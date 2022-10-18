@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="CheckStyle-IDEA-Module">
+    <option name="configuration">
+      <map />
+    </option>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="libs" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.13.0-rc1" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../JSON/jackson-annotations-2.9.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../JSON/jackson-core-2.9.7.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../JSON/jackson-databind-2.9.7.jar!/" />
+          <root url="file://$MODULE_DIR$/../.." />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/clase-abstracte-interfete/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/clase-interne/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/clase-interne/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/colectii/skel-2019" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/design-patterns2/2018/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/design-patterns2/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/design-patterns/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/features/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/clase-interne/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/design-patterns2/2015-skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/design-patterns2/2017-skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/design-patterns/2014-skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/design-patterns/2015-skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/visitor/2013-skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/old/visitor/2014-skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/visitor/2018/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/323cdb-andreimunteanu00/visitor/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/JocuLuMunteanu/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB10/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB11/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB1/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB2/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB3/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB4/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB5/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB6/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB7/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB8/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/LAB9/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2014-2015/tema2-selfie/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2014-2015/tema3-bucket-dictionary/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2014-2015/tema4-visitor/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2015-2016/tema1-social-networks/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2015-2016/tema3-SPL-Interpreter/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2015-2016/tema4-mockito-lite/checker" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2016-2017/tema4-calculator-numere-romane/checker" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2016-2017/tema4-calculator-numere-romane/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2017-2018/tema3-caching-system/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2018-2019/tema1/schelet/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2018-2019/tema2" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2018-2019/tema3/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/old/2019-2020/tema1/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/teme/proiect-etapa1/proiect-etapa1_bun/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-project-phase1-2020/teme/proiect-etapa1/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2014-2015/tema2-selfie/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2014-2015/tema3-bucket-dictionary/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2014-2015/tema4-visitor/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2015-2016/tema1-social-networks/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2015-2016/tema3-SPL-Interpreter/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2015-2016/tema4-mockito-lite/checker" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2016-2017/tema4-calculator-numere-romane/checker" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2016-2017/tema4-calculator-numere-romane/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2017-2018/tema3-caching-system/skel" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2018-2019/tema1/schelet/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2018-2019/tema2" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2018-2019/tema3/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/old/2019-2020/tema1/skel/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/TEMA POO/teme-tema1-2020/teme/tema1/Tema-POO-2020/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/angajare/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/certificat/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/examenPractice/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/examen/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/plm/src" />
+          <root url="file://$MODULE_DIR$/../../POO/POO/test123/src" />
+          <root url="file://$MODULE_DIR$/../../Tema 1 - Github/Tema-1---VideoDB/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Andrei/Tema-POO-VideosDB-master/Tema-POO-VideosDB-master/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Bianca/VideosDB-main/VideosDB-main" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Luis/VideosDB-main/VideosDB-main/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Mnt/videosDB-master/videosDB-master/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Pasca/VideosDB-main (1)/VideosDB-main/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Radu/POO-T1-VideosDB-main/POO-T1-VideosDB-main/src" />
+          <root url="file://$MODULE_DIR$/../../Teme din alte parte/Tema Sorina Buf/VideosDB-main/VideosDB-main/Tema-POO-2020/src" />
+          <root url="file://$MODULE_DIR$/../../oop-324cd-a-vineri-10-12-Ion-Dragos/src" />
+          <root url="file://$MODULE_DIR$/../old/2014-2015/tema2-selfie/skel/src" />
+          <root url="file://$MODULE_DIR$/../old/2014-2015/tema3-bucket-dictionary/skel/src" />
+          <root url="file://$MODULE_DIR$/../old/2014-2015/tema4-visitor/skel" />
+          <root url="file://$MODULE_DIR$/../old/2015-2016/tema1-social-networks/skel/src" />
+          <root url="file://$MODULE_DIR$/../old/2015-2016/tema3-SPL-Interpreter/skel/src" />
+          <root url="file://$MODULE_DIR$/../old/2015-2016/tema4-mockito-lite/checker" />
+          <root url="file://$MODULE_DIR$/../old/2016-2017/tema4-calculator-numere-romane/checker" />
+          <root url="file://$MODULE_DIR$/../old/2016-2017/tema4-calculator-numere-romane/skel" />
+          <root url="file://$MODULE_DIR$/../old/2017-2018/tema3-caching-system/skel" />
+          <root url="file://$MODULE_DIR$/../old/2018-2019/tema1/schelet/src" />
+          <root url="file://$MODULE_DIR$/../old/2018-2019/tema2" />
+          <root url="file://$MODULE_DIR$/../old/2018-2019/tema3/src" />
+          <root url="file://$MODULE_DIR$/../old/2019-2020/tema1/skel/src" />
+          <root url="file://$MODULE_DIR$/../old/2020-2021/proiect-etapa1/src" />
+          <root url="file://$MODULE_DIR$/../old/2020-2021/proiect-etapa2-energy-system/src" />
+          <root url="file://$MODULE_DIR$/../old/2020-2021/tema/Tema-POO-2020/src" />
+          <root url="file://$MODULE_DIR$/src" />
+          <root url="file://$MODULE_DIR$/../teme/tema/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
